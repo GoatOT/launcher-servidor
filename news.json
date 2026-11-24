@@ -1,0 +1,11 @@
+{
+  "noticias": [
+    {
+      "tipo": "Atualização",
+      "data": "24/11/2026",
+      "titulo": "Launcher oficial no ar",
+      "texto": "Agora o cliente se atualiza sozinho: abra o launcher e ele baixa só o que mudou.",
+      "link": ""
+    }
+  ]
+}
